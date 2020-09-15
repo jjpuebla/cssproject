@@ -105,14 +105,24 @@ input[type="submit"] {
 }
 
 .cc {
-    margin: auto ;
-    width: 50%;
+    /*margin: auto ;*/
     
+    text-align: center;
+    
+    /*flex-direction: column;*/
+  
+    /*justify-content: flex-end;*/
+    
+    /*width: 50%;*/
+    
+}
+.form {
+    display: inline-block;
 }
 
 .gbuttons {
-    margin: auto ;
-    width: 50%;
+    /*margin: auto ;*/
+    /*width: 50%;*/
     margin-top: 20px;
 }
 
